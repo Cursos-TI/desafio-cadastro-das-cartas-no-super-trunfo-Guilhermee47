@@ -4,7 +4,7 @@ int main() {
     // Carta 1
     char estado1 = 'A';
     char codigo1[4] = "A01";
-    char nomeCidade1[50] = "Campinas";
+    char nomeCidade1[50] = "Santa Catarina";
     int populacao1 = 12325000;
     float area1 = 1521.11;
     float pib1 = 699.28;
@@ -13,7 +13,7 @@ int main() {
     // Carta 2
     char estado2 = 'B';
     char codigo2[4] = "B02";
-    char nomeCidade2[50] = "Duque de Caxias";
+    char nomeCidade2[50] = "Rio Grande do Sul";
     int populacao2 = 6748000;
     float area2 = 1200.25;
     float pib2 = 300.50;
@@ -22,7 +22,7 @@ int main() {
     // Carta 3
     char estado = 'C';
     char codigo3[4] = "C03";
-    char nomeCidade3[50] = "Blumenau";
+    char nomeCidade3[50] = "Bahia";
     int populacao3 = 23147513;
     float area3 = 1842.53;
     float pib3 = 204.21;
